@@ -4,9 +4,9 @@
 `define WORD  32
 `define ZERO `WORD'b0
 `define ONE `WORD'b1
-`define DMEMFILE  "testfiles/sumD.data"
-`define IMEMFILE  "testfiles/sumI.data"
-`define RMEMFILE  "testfiles/sumR.data"
+`define DMEMFILE  "../../../testfiles/sumD.data"
+`define IMEMFILE  "../../../testfiles/sumI.data"
+`define RMEMFILE  "../../../testfiles/sumR.data"
 
 `define RTYPE 6'b000000
 `define LW    6'b100011

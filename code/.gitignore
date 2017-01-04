@@ -1,7 +1,6 @@
 /*
 
 !.gitignore
-!*.v
 !common/
 !fetch/
 !decode/
@@ -9,4 +8,6 @@
 !memory/
 !writeback/
 !testfiles/
+!tests/
+!*.v
 !*.xpr 
