@@ -1,0 +1,12 @@
+/*
+
+!.gitignore
+!*.v
+!common/
+!fetch/
+!decode/
+!execute/
+!memory/
+!writeback/
+!testfiles/
+!*.xpr 

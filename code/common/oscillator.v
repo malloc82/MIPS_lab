@@ -6,7 +6,6 @@ module oscillator(
     );
     always
        #(`CYCLE/2) clk <= ~clk;
-       
     initial
         clk<=0;
 endmodule
